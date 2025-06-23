@@ -18,6 +18,10 @@ Despite the growing demand for data science professionals, salary information re
 
 ---
 
+https://github.com/user-attachments/assets/a2f55348-5b4b-4897-a477-11330b2479ef
+
+
+
 ## 📊 Excel Workbook Structure
 
 The Excel file contains **7 organized worksheets**:
